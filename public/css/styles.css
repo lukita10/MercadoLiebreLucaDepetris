@@ -203,7 +203,9 @@ article div.main-article {
 .main-footer span {
     font-size: 10px;
 }
-
+section.Banner{
+    background-color: white;
+}
 /* tablet */
 
 @media (min-width: 768px) {
